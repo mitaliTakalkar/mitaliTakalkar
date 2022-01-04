@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mitaliTakalkar
 - 👀 I’m interested in data visualization
 - 🌱 I’m currently learning required python libraries
-- 💞️ I’m looking to collaborate on ata visualization projects
+- 💞️ I’m looking to collaborate on data visualization projects
 - 📫 How to reach me on  @ mitalitakalkar@gmail.com
 
 <!---
